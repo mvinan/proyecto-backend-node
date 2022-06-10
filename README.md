@@ -1,2 +1,2 @@
-# proyecto-backend-node-platzi
+# proyecto-backend-node
 Proyecto del curso avanzado de backend con NodeJS 
